@@ -1,0 +1,9 @@
+{
+  "event": "cm14",
+  "parquet_versions": {
+    "deck": 1,
+    "podium": 1,
+    "statsheet": 1
+  },
+  "data_format_version": 1
+}
